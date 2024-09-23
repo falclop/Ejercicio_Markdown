@@ -10,4 +10,4 @@ Jugueteando con Markdown *by* __Fabián Alcaide López__
 ### 3. Enlace a nuevo documento
 _[Enlace a nuevo_markdown](./nuevo_markdown.md)_
 
-> Este texto daría como resultado una cita.
+> Tengo que ponerme las pilas.
